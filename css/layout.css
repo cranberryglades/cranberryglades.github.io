@@ -1,0 +1,183 @@
+div {
+  /* This is just for testing */
+  /* border: 1px solid black; */
+}
+
+#banner {
+  text-align: center;
+  width: 98%;
+  /* overflow: auto; */
+}
+#bannerimage {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#menu {
+  text-align: center;
+  max-width: 800px;
+  /* overflow: auto; */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+.menuitem {
+  display: inline-block;
+  padding: 2px;
+  margin: 2px;
+  /* border: 1px solid black; */
+}
+
+#maincontent {
+  max-width: 800px;
+  /* overflow: auto; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+  /* margin-left: 10px; */
+}
+
+p {
+  clear: left;
+  /* margin: 10px 0px 10px 0px; */
+}
+p#author {
+  text-align: center;
+}
+
+#pagecontent {
+  /* padding: 10px; */
+}
+
+.rightimage {
+  float: right;
+  padding: 10px;
+  clear: right;
+}
+
+.leftimage {
+  float: left;
+}
+
+.centered {
+  text-align: center;
+}
+
+#currentconditions {
+  clear: left;
+  overflow: auto;
+}
+
+#locationimage{
+  float: left;
+  /* width: 50%; */
+  /* height: 400px; */
+  padding: 20px;
+}
+
+#weatherlocations {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.cityweather {
+  /* float: right; */
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  width: 35%;
+  padding: 5px;
+}
+
+#imagery {
+  clear: left;
+}
+
+.satellite {
+  display: inline-block;
+  width: 40%;
+  padding: 10px;
+}
+
+.satelliteimage {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.radar {
+  display: inline-block;
+  width: 40%;
+  padding: 10px;
+}
+
+.radarimage {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#typicaltemperatures {
+  width: 100%;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#precipimage {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#photos {
+  text-align: center;
+}
+.photo {
+  display: inline-block;
+  width: 30%;
+  /* padding: 2px; */
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.rightphoto {
+  float: right;
+  display: inline-block;
+  width: 40%;
+  padding: 10px;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.inlineimage {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#footer {
+  text-align: center;
+  width: 98%;
+  /* overflow: auto; */
+}
+#footerimage {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+th {
+  /* white-space: nowrap; */
+}
+td {
+  vertical-align: top;
+}
+
+li {
+  padding: 5px;
+}

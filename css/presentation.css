@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, Helvetica, sans;
+  font-size: 1.0em;
+}
+
+h1 {
+  font-size: 1.4em;
+}
+
+h2 {
+  font-size: 1.3em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+h4 {
+  font-size: 1.1em;
+}
+
+p {
+  font-size: 1.0em;
+}
+
+a {
+  /* color: #0000ff; */
+  color: #336656;
+  text-decoration: underline;
+}
+a:hover {
+  /* color: #0000ff; */
+  color: #336656;
+  /* text-decoration: underline; */
+}
+
+#bannerimage {
+  border: 2px solid #eeeeee;
+}
+
+#menu {
+  border-top: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.menuitem {
+  font-size: 0.9em;
+  /* background: #336656; */
+}
+a.menulink {
+  /* color: #ffffff; */
+  text-decoration: none;
+}
+a.menulink:hover {
+  /* color: #ffffff; */
+  text-decoration: underline;
+}
+
+ul {
+  list-style-image: url('/images/cranberry.png');
+}
+
+th {
+  background: #dddddd;
+}
+
+.temperature {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.temperaturesthismonth {
+  background: #eeeeee;
+}
+
+
+.photo {
+  border: 2px solid #eeeeee;
+}
