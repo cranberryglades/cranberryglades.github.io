@@ -24,14 +24,11 @@ p {
 }
 
 a {
-  /* color: #0000ff; */
   color: #336656;
   text-decoration: underline;
 }
 a:hover {
-  /* color: #0000ff; */
   color: #336656;
-  /* text-decoration: underline; */
 }
 
 #bannerimage {
@@ -45,14 +42,11 @@ a:hover {
 
 .menuitem {
   font-size: 0.9em;
-  /* background: #336656; */
 }
 a.menulink {
-  /* color: #ffffff; */
   text-decoration: none;
 }
 a.menulink:hover {
-  /* color: #ffffff; */
   text-decoration: underline;
 }
 

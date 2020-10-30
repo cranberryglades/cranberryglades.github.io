@@ -1,12 +1,6 @@
-div {
-  /* This is just for testing */
-  /* border: 1px solid black; */
-}
-
 #banner {
   text-align: center;
   width: 98%;
-  /* overflow: auto; */
 }
 #bannerimage {
   max-width: 100%;
@@ -16,7 +10,6 @@ div {
 #menu {
   text-align: center;
   max-width: 800px;
-  /* overflow: auto; */
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
@@ -27,7 +20,6 @@ div {
   display: inline-block;
   padding: 2px;
   margin: 2px;
-  /* border: 1px solid black; */
 }
 
 #maincontent {
@@ -44,19 +36,16 @@ h1 {
 
 h2 {
   text-align: left;
-  /* margin-left: 10px; */
 }
 
 p {
   clear: left;
-  /* margin: 10px 0px 10px 0px; */
 }
 p#author {
   text-align: center;
 }
 
 #pagecontent {
-  /* padding: 10px; */
 }
 
 .rightimage {
@@ -80,8 +69,6 @@ p#author {
 
 #locationimage{
   float: left;
-  /* width: 50%; */
-  /* height: 400px; */
   padding: 20px;
 }
 
@@ -91,7 +78,6 @@ p#author {
 }
 
 .cityweather {
-  /* float: right; */
   display: inline-block;
   text-align: center;
   vertical-align: top;
@@ -164,7 +150,6 @@ p#author {
 #footer {
   text-align: center;
   width: 98%;
-  /* overflow: auto; */
 }
 #footerimage {
   max-width: 100%;
@@ -172,7 +157,6 @@ p#author {
 }
 
 th {
-  /* white-space: nowrap; */
 }
 td {
   vertical-align: top;
